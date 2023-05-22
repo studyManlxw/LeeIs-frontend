@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3992748 */
+  src: url('iconfont.woff2?t=1681546248128') format('woff2'),
+       url('iconfont.woff?t=1681546248128') format('woff'),
+       url('iconfont.ttf?t=1681546248128') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qunfengdianpumingcheng:before {
+  content: "\e761";
+}
+
+.icon-gerenzhongxin:before {
+  content: "\e612";
+}
+
+.icon-manghe:before {
+  content: "\e61c";
+}
+
+.icon-xingbie:before {
+  content: "\e61a";
+}
+
+.icon-morenwuxingbie:before {
+  content: "\e632";
+}
+
+.icon-weizhi:before {
+  content: "\e789";
+}
+
+.icon-shengyin:before {
+  content: "\e665";
+}
+
+.icon-circle:before {
+  content: "\e611";
+}
+
+.icon-1:before {
+  content: "\e691";
+}
+
+.icon-2:before {
+  content: "\e692";
+}
+
+.icon-3:before {
+  content: "\e693";
+}
+
+.icon-4:before {
+  content: "\e694";
+}
+
+.icon-5:before {
+  content: "\e695";
+}
+
+.icon-6:before {
+  content: "\e696";
+}
+
+.icon-7:before {
+  content: "\e697";
+}
+
+.icon-lv:before {
+  content: "\e69f";
+}
+
